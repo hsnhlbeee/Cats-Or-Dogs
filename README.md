@@ -67,7 +67,7 @@ python predict.py --image_path path/to/your/image.jpg
 This will output whether the image is a cat or a dog.
 
 ## Results
-The model achieves an accuracy of approximately 95% on the validation set.
+The model achieves an accuracy of approximately 85.79% on the validation set.
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
