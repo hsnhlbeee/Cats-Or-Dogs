@@ -9,8 +9,7 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 The goal of this project is to develop a deep learning model capable of distinguishing between images of cats and dogs. The project consists of data preprocessing, model training, evaluation, and deployment for inference.
@@ -68,8 +67,3 @@ This will output whether the image is a cat or a dog.
 
 ## Results
 The model achieves an accuracy of approximately 85.79% on the validation set.
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
